@@ -66,28 +66,24 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://thinhlouis.com" target="blank">
-    <img width="90" height="90" src="https://i.ibb.co/MpZwrrp/facebook-new.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="https://i.ibb.co/MpZwrrp/facebook-new.png" alt="thinhngo-blog" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://facebook.com/thinh.ngo.767" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thinhngo-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.youtube.com/@thinhngo76888" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thinhngo-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="www.linkedin.com/in/thinhngo767" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thinhngo-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://www.instagram.com/ares_____767/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thinhngo-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:thinhngo767@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thinhngo-email" />
   </a>
 </div>
-
-<br>
-
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
