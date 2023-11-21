@@ -74,7 +74,7 @@
   <a href="https://www.youtube.com/@thinhngo76888" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thinhngo-youtube" />
   </a>
-  <a href="www.linkedin.com/in/thinhngo767" target="blank">
+  <a href="https://www.linkedin.com/in/thinhngo767/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thinhngo-linkedin" />
   </a>
   <a href="https://www.instagram.com/ares_____767/" target="blank">
@@ -89,6 +89,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/thinhngo-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/thinhngo-quotes.svg" width="846" height="150" alt="thinhngo-official" />
 </a>
 
